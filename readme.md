@@ -8,7 +8,7 @@ There is a misleading word used in the industry. Let's say you need a image caro
 
 You search in google and find out one which fits your needs & the name of it is `jQuery Carousel` you call it a jQuery plugin to your web application. It's not just jQuery, its a combination of HTML, CSS and JS.
 
-It's just a UI Component Plugin which uses jQuery instead of javascript, and that's where the idea of creating a repo for UI components arise.
+It's just a UI Component Plugin which uses jQuery instead of raw javascript, and that's where the idea of creating a repo for UI components arise.
 
 To answer 6 year old: It's a piece of the web layout.
 
