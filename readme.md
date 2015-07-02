@@ -17,7 +17,17 @@ To answer 6 year old: It's a piece of the web layout.
 - [Forms](#forms)
 - [Maps](#maps)
 - [Images](#images)
-
+- [Audio](#audio)
+- [Events](#events)
+- [Animation](#animation)
+- [Tool Tip](#tool-tip)
+- [Loaders](#loaders)
+- [Time](#time)
+- [Notification](#notifications)
+- [Data Manipulation](#data-manipulation)
+- [Data Visualization](#data-visualization)
+- [Navigation](#navigation)
+- [Presentation](#presentation)
 
 
 ## Forms
@@ -92,6 +102,7 @@ simple and super-efficient API and amazing user experience.
   - [Super Labels](https://github.com/remybach/jQuery.superLabels) - Creates labels for input & slide across the field when gaining focus and fade out when a value is entered
   - [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as user complete forms
 
+**[⬆ back to top](#table-of-contents)**
 
 ## Maps
 
@@ -102,12 +113,16 @@ simple and super-efficient API and amazing user experience.
 - [planetaryjs](http://planetaryjs.com/) - Awesome interactive globes for the web
 - [openlayers3](http://openlayers.org/) - Mapping library that supports different projections
 
+**[⬆ back to top](#table-of-contents)**
+
 
 ## Images
 
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading images.
 - [ImageLoader.js](http://nick-jonas.github.com/imageloader/) - Preload Images
 - [imagesloaded](https://github.com/desandro/imagesloaded) - ImagesLoaded
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Video
 
@@ -116,6 +131,8 @@ simple and super-efficient API and amazing user experience.
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 
+**[⬆ back to top](#table-of-contents)**
+
 ##  Audio
 
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
@@ -123,10 +140,14 @@ simple and super-efficient API and amazing user experience.
 - [soundjs](http://createjs.com/SoundJS) - Audio library + simple interface
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Events
 
 - [jQuery Outside Events](http://benalman.com/projects/jquery-outside-events-plugin/) - clickoutside, dbclickoutside, etc.,
 - [KeyPress](http://dmauro.github.io/Keypress/) - A robust Javascript library for capturing keyboard input
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Animation
 
@@ -134,7 +155,9 @@ simple and super-efficient API and amazing user experience.
 - [liffect](http://ademilter.com/lab/liffect/) - LI -> List animations
 - [jQuery Transit](http://ricostacruz.com/jquery.transit/) - Super-smooth CSS3 transformations and transitions for jQuery
 - Slider
-  - [Basic Slider](http://basic-slider.com/) - Simple to use, simple to theme, simple to customise
+  - [Basic Slider](http://basic-slider.com/) - Simple to use, simple to theme, simple to customize
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Tool Tip
 
@@ -144,11 +167,15 @@ simple and super-efficient API and amazing user experience.
 - [Tipped](http://projects.nickstakenburg.com/tipped) - Tipped takes tooltips to the next level by using HTML5 to give you full control over the look and feel of your tooltips.
 - [Toolbar.Js](http://paulkinzett.github.com/toolbar/) - A jQuery plugin that creates tooltip style toolbars
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Loaders
 
 - [Percentage Loader](http://widgets.better2web.com/loader/) - jQuery plugin for displaying progress in a visual and engaging way
 - [Hook.js](http://usehook.com/) - Pull to refresh. For the web.
 - [Pace](http://github.hubspot.com/pace/docs/welcome/) - Automatic page loading progress bar (Youtube loading bar clone)
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Time
 
@@ -157,12 +184,16 @@ simple and super-efficient API and amazing user experience.
 - [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
 - [timeago](http://timeago.yarp.com/) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
 
+**[⬆ back to top](#table-of-contents)**
+
 
 ## Notifications
 
 - [favico.js](http://lab.ejci.net/favico.js/) - Make a use of your favicon with badges, images or videos
 - [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
 - [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Data Manipulation
 
@@ -172,16 +203,22 @@ simple and super-efficient API and amazing user experience.
 - [Accounting.js](http://josscrowcroft.github.com/accounting.js/) - JavaScript library for number, money and currency formatting, with optional excel-style column rendering (to line up symbols and decimals). It's lightweight, fully localisable and has zero dependencies.
 - [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Data Visualization
 
 - [Charts.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag
 - [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 - [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Navigation
 
 - [Slideout.js](https://mango.github.io/slideout/) - A touch slideout navigation menu for your mobile web apps.
 - [Navigation Sidebar with Toggle](http://bootsnipp.com/snippets/featured/navigation-sidebar-with-toggle) - Sidebar with toggle for bootstrap
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Presentation
 
@@ -189,3 +226,19 @@ simple and super-efficient API and amazing user experience.
 - [Impress.js](http://bartaz.github.io/impress.js/#/bored) - Presentation which uses the power of css to show different animation effects.
 - [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
 - [Website Tour](http://tympanus.net/codrops/2010/12/21/website-tour/) - Explain your users the functioning of your web application in an interactive way
+
+**[⬆ back to top](#table-of-contents)**
+
+## Contributions
+
+Contribution would be of great help create a nice list of UI Components
+
+* Fork the project
+* Make your feature addition or bug fix
+* Send pull request
+
+**Active Contributors**
+
+[![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](https://github.com/logeshpaul)
+
+Start the project to get notified on the new addition and updates!
