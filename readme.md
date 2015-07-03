@@ -2,15 +2,15 @@
 
 Almost most of the UI components you use in your web applications as a collection.
 
-#### Why name UI Components?
+#### Why Name UI Components?
 
-There is a misleading word used in the industry. Let's say you need a image carousel.
+There is a misleading word used in the industry. Let's say you need an image carousel.
 
-You search in google and find out one which fits your needs & the name of it is `jQuery Carousel` you call it a jQuery plugin to your web application. It's not just jQuery, its a combination of HTML, CSS and JS.
+You search in google and find out one which fits your needs & the name of it is `jQuery Carousel` you call it a jQuery plugin to your web application. It's not just jQuery, it's a combination of HTML, CSS and JS.
 
-It's just a UI Component Plugin which uses jQuery instead of raw javascript, and that's where the idea of creating a repo for UI components arise.
+It's just a UI Component Plugin which uses jQuery instead of raw javascript, and that's where the idea of creating a repo for UI components arose.
 
-To answer 6 year old: It's a piece of the web layout.
+To answer a 6 year old: it's a piece of the web layout.
 
 ## Table of Contents
 
@@ -36,9 +36,9 @@ To answer 6 year old: It's a piece of the web layout.
 
   - [Select3](https://arendjr.github.io/select3/) - Modular and light-weight selection library for jQuery and Zepto.js
   - [Select2](https://select2.github.io/) - Features which select API missing
-  - [Chosen](http://harvesthq.github.com/chosen/) - Morden, Customizable, More user-friendly
+  - [Chosen](http://harvesthq.github.com/chosen/) - Modern, Customizable, More user-friendly
   - [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select
- exisiting
+ existing
   - [ddSlick](http://designwithpc.com/Plugins/ddSlick) - Allows you to create a custom drop down with images and description.
   - [Selectize](http://brianreavis.github.io/selectize.js/) - hybrid of a textbox and `<select>` box.
 
@@ -47,7 +47,7 @@ To answer 6 year old: It's a piece of the web layout.
 
   - [Redactor](http://imperavi.com/redactor/) - limitless flexibility and extensibility,
 simple and super-efficient API and amazing user experience.
-  - [CKEditor](http://ckeditor.com/) - Simple to use and it can be modified in any way you want.
+  - [CKEditor](http://ckeditor.com/) - Simple to use and can be modified in any way you want.
 
 
 - ######Radio buttons/Check boxes:
@@ -64,9 +64,9 @@ simple and super-efficient API and amazing user experience.
 
 - ######HTML5 Placeholder:
 
-  - [jQuery-html5-placeholder-shim](https://github.com/jcampbell1/jquery-html5-placeholder-shim) - Just include the js, your'e Done!
+  - [jQuery-html5-placeholder-shim](https://github.com/jcampbell1/jquery-html5-placeholder-shim) - Just include the js, your'e done!
   - [Simple Placeholder](https://github.com/marcgg/Simple-Placeholder) - Lightweight. Required - jQuery.
-  - [Cross Browser Placeholder](http://webdesignerwall.com/tutorials/cross-browser-html5-placeholder-text) - Require jQuery & Modernizer.
+  - [Cross Browser Placeholder](http://webdesignerwall.com/tutorials/cross-browser-html5-placeholder-text) - Requires jQuery & Modernizer.
 
 
 - ######Validation:
@@ -75,32 +75,32 @@ simple and super-efficient API and amazing user experience.
   - [Validate.js](http://rickharrison.github.com/validate.js/) - Lightweight JavaScript form validation library inspired by CodeIgniter.
   - [Validate Jquery](http://jqueryvalidation.org/) - Form validation with jQuery
   - [jQuery Credit Card Validator](http://paweldecowski.github.com/jQuery-CreditCardValidator/) - Detects and validates credit card numbers
-  - [Smart Validate - Credit Card Validator](http://www.egrappler.com/jquery-credit-card-validation-plugin-smart-validate/) - It ensures that user has entered valid credit card number before making actual transaction
+  - [Smart Validate - Credit Card Validator](http://www.egrappler.com/jquery-credit-card-validation-plugin-smart-validate/) - It ensures that user has entered a valid credit card number before making an actual transaction
   - [Mail Check](https://github.com/Kicksend/mailcheck) - Email domain spelling suggester
   - [mailcheck.js](https://github.com/mailcheck/mailcheck) - Reduce user-misspelled email addresses in your forms.
 
 
 - ######File Upload:
 
-  - [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most of the server-side platform.
+  - [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/) - Multiple file selection, Drag & Drop support, Progress bars, Preview images & Works with most server-side platforms.
   - [Uploadify](http://www.uploadify.com/) - HTML5 or Flash multiple file upload jQuery plugin script.
   - [Dropzone](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
 
 
 - ######Modal Boxes:
 
-  - [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/) - It uses interesting concept showing depth between popup and page.
+  - [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/) - It uses an interesting concept showing depth between popup and page.
 
 
 - ######Misc:
 
   - [Enhance your Forms](http://www.noupe.com/jquery/50-useful-jquery-plugins-to-enhance-your-forms.html) - 50 Useful jQuery Plugins
-  - [Complexify](https://github.com/danpalmer/jquery.complexify.js) - Gauge the quality of a user's password to give them visual feedback
+  - [Complexify](https://github.com/danpalmer/jquery.complexify.js) - Gauge the quality of a user's password and give them visual feedback
   - [Sisyphus.js](http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/) - Auto save user input in your form
   - [Ideal Forms](http://elclanrs.github.com/jq-idealforms/) - Ideal Forms is the ultimate framework for building and validating responsive HTML5 forms.
   - [Form Accordion](https://github.com/OliverJAsh/FormAccordion) - A jQuery plugin for easily hiding and revealing related form fields conditionally.
-  - [Super Labels](https://github.com/remybach/jQuery.superLabels) - Creates labels for input & slide across the field when gaining focus and fade out when a value is entered
-  - [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as user complete forms
+  - [Super Labels](https://github.com/remybach/jQuery.superLabels) - Creates labels for input & slides across the field when gaining focus and fades out when a value is entered
+  - [Progression.js](http://git.aaronlumsden.com/progression/#demo) -  real time hints & progress updates as users complete forms
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -127,7 +127,7 @@ simple and super-efficient API and amazing user experience.
 ## Video
 
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
-- [MediaElement.js](http://mediaelementjs.com/) - HTML5 Video & Audio player for all browsers with same UI. Includes the Flash fallback for IE7+
+- [MediaElement.js](http://mediaelementjs.com/) - HTML5 Video & Audio player for all browsers with the same UI. Includes the Flash fallback for IE7+
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 
@@ -189,7 +189,7 @@ simple and super-efficient API and amazing user experience.
 
 ## Notifications
 
-- [favico.js](http://lab.ejci.net/favico.js/) - Make a use of your favicon with badges, images or videos
+- [favico.js](http://lab.ejci.net/favico.js/) - Make use of your favicon with badges, images or videos
 - [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
 - [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
 
@@ -199,7 +199,7 @@ simple and super-efficient API and amazing user experience.
 
 - [String.js](http://stringjs.com/) - JavaScript library for the browser or for Node.js that provides extra String methods
 - [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
-- [Money.js](http://josscrowcroft.github.com/money.js/) - JavaScript currency conversion library, done right - with no dependencies. Work seamlessly with data from the [Open Exchange Rates API](http://openexchangerates.org/)
+- [Money.js](http://josscrowcroft.github.com/money.js/) - JavaScript currency conversion library, done right - with no dependencies. Works seamlessly with data from the [Open Exchange Rates API](http://openexchangerates.org/)
 - [Accounting.js](http://josscrowcroft.github.com/accounting.js/) - JavaScript library for number, money and currency formatting, with optional excel-style column rendering (to line up symbols and decimals). It's lightweight, fully localisable and has zero dependencies.
 - [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
 
@@ -209,7 +209,7 @@ simple and super-efficient API and amazing user experience.
 
 - [Charts.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag
 - [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
-- [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on web using this library
+- [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on the web using this library
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -222,16 +222,16 @@ simple and super-efficient API and amazing user experience.
 
 ## Presentation
 
-- [Reveal.js](http://lab.hakim.se/reveal-js/#/) - A HTML presentation framework
+- [Reveal.js](http://lab.hakim.se/reveal-js/#/) - An HTML presentation framework
 - [Impress.js](http://bartaz.github.io/impress.js/#/bored) - Presentation which uses the power of css to show different animation effects.
 - [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
-- [Website Tour](http://tympanus.net/codrops/2010/12/21/website-tour/) - Explain your users the functioning of your web application in an interactive way
+- [Website Tour](http://tympanus.net/codrops/2010/12/21/website-tour/) - Explain to your users the functioning of your web application in an interactive way
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Contributions
 
-Contribution would be of great help create a nice list of UI Components
+Contribution would be of great help to create a nice list of UI Components
 
 * Fork the project
 * Make your feature addition or bug fix
@@ -241,4 +241,4 @@ Contribution would be of great help create a nice list of UI Components
 
 [![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](https://github.com/logeshpaul)
 
-Watch the project to get notified on the new addition and updates!
+Watch the project to get notified of new additions and updates!
