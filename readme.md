@@ -241,4 +241,4 @@ Contribution would be of great help create a nice list of UI Components
 
 [![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](https://github.com/logeshpaul)
 
-Start the project to get notified on the new addition and updates!
+Watch the project to get notified on the new addition and updates!
