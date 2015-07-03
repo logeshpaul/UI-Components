@@ -34,7 +34,7 @@ To answer a 6 year old: it's a piece of the web layout.
 
 - ######Select Box
 
-  - [Select3](https://arendjr.github.io/select3/) - Modular and light-weight selection library for jQuery and Zepto.js
+  - [Selectivity](https://arendjr.github.io/selectivity/) - Modular and light-weight selection library for jQuery and Zepto.js
   - [Select2](https://select2.github.io/) - Features which select API missing
   - [Chosen](http://harvesthq.github.com/chosen/) - Modern, Customizable, More user-friendly
   - [Editable Select list](http://coffeescripter.com/code/editable-select/) - Autosuggest, Custom input, Select
