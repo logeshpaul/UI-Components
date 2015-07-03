@@ -240,5 +240,8 @@ Contribution would be of great help to create a nice list of UI Components
 **Active Contributors**
 
 [![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](https://github.com/logeshpaul)
+[![Jonathan Barratt](https://avatars3.githubusercontent.com/u/500775?v=3&s=72)](https://github.com/reduxionist)
+[![Karl Merkli](https://avatars0.githubusercontent.com/u/1131901?v=3&s=72)](https://github.com/Itrulia)
+[![Jonathan Garbee](https://avatars1.githubusercontent.com/u/868301?v=3&s=72)](https://github.com/Garbee)
 
 Watch the project to get notified of new additions and updates!
