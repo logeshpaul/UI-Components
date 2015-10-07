@@ -28,6 +28,7 @@ To answer 6 year old: It's a piece of the web layout.
 - [Data Visualization](#data-visualization)
 - [Navigation](#navigation)
 - [Presentation](#presentation)
+- [Accordion](#accordion)
 
 
 ## Forms
@@ -226,6 +227,16 @@ simple and super-efficient API and amazing user experience.
 - [Impress.js](http://bartaz.github.io/impress.js/#/bored) - Presentation which uses the power of css to show different animation effects.
 - [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
 - [Website Tour](http://tympanus.net/codrops/2010/12/21/website-tour/) - Explain your users the functioning of your web application in an interactive way
+
+**[⬆ back to top](#table-of-contents)**
+
+## Accordion
+
+- [Bootstrap](http://getbootstrap.com/javascript/#collapse-example-accordion) - If you are using bootstrap you can use this.
+- [jQuery UI](https://jqueryui.com/accordion/) - If you are using `jqueryui` in your project then you can use this
+- [CSS + HTML only Accordion Element](http://codepen.io/abergin/pen/ihlDf) - Codepen by Alex Bergin
+- [CSS Responsive Animated Accordion](http://codepen.io/chriswrightdesign/pen/cmanI) - Codepen by Chris Wright
+- [Animated Content Tabs with CSS3](http://tympanus.net/codrops/2012/04/12/animated-content-tabs-with-css3/) - by Codrops
 
 **[⬆ back to top](#table-of-contents)**
 
