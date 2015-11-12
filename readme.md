@@ -16,7 +16,7 @@ To answer a 6 year old: it's a piece of the web layout.
 
 You can use this repo as a reference to find different UI Components for your day-to-day web development.
 
-Explore the categories a) [Components](#components) and b) [Components Helper](#components-helper).
+Explore the categories a) [Components](#components) and b) [Components Helper](#component-helpers).
 
 Raise an issue to add your component to this repo.
 
@@ -24,7 +24,7 @@ Raise an issue to add your component to this repo.
 
 - [Accordion](#accordion)
 - [Audio](#audio)
-- [Checkboxes / Radio Buttons](#check-box-radio-buttons)
+- [Checkboxes / Radio Buttons](#checkboxes--radio-buttons)
 - [File Upload](#file-upload)
 - [Images](#images)
 - [Maps](#maps)
