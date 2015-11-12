@@ -92,11 +92,11 @@ Raise an issue to add your component to this repo.
 
 | Title  | Description | Popularity |
 | ------ | ----------- | -----------|
-| [leaflet.js](http://leafletjs.com/) | An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps | - |
+| [leaflet.js](http://leafletjs.com/) | An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps | <iframe src="https://ghbtns.com/github-btn.html?user=Leaflet&repo=Leaflet&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
 | [jvectormap](http://jvectormap.com/) | Interactive vector world map | - |
-| [gmaps.js](http://hpneo.github.com/gmaps/) | Google maps api with less pain and more fun | - |
-| [planetaryjs](http://planetaryjs.com/) | Awesome interactive globes for the web | - |
-| [openlayers3](http://openlayers.org/) | Mapping library that supports different projections | - |
+| [gmaps.js](http://hpneo.github.com/gmaps/) | Google maps api with less pain and more fun | <iframe src="https://ghbtns.com/github-btn.html?user=hpneo&repo=gmaps&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
+| [planetaryjs](http://planetaryjs.com/) | Awesome interactive globes for the web | <iframe src="https://ghbtns.com/github-btn.html?user=BinaryMuse&repo=planetary.js&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
+| [openlayers3](http://openlayers.org/) | Mapping library that supports different projections | <iframe src="https://ghbtns.com/github-btn.html?user=openlayers&repo=ol3&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
 
 *[⬆ back to top](#components)*
 
@@ -104,7 +104,7 @@ Raise an issue to add your component to this repo.
 
 | Title  | Description | Popularity |
 | ------ | ----------- | -----------|
-| [Slideout.js](https://mango.github.io/slideout/) | A touch slideout navigation menu for your mobile web apps. | - |
+| [Slideout.js](https://mango.github.io/slideout/) | A touch slideout navigation menu for your mobile web apps. | <iframe src="https://ghbtns.com/github-btn.html?user=mango&repo=slideout&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
 | [Navigation Sidebar with Toggle](http://bootsnipp.com/snippets/featured/navigation-sidebar-with-toggle) | Sidebar with toggle for bootstrap | - |
 
 *[⬆ back to top](#components)*
@@ -113,12 +113,11 @@ Raise an issue to add your component to this repo.
 
 | Title  | Description | Popularity |
 | ------ | ----------- | -----------|
-| [Selectivity](https://arendjr.github.io/selectivity/) | Modular and light-weight selection library for jQuery and Zepto.js | - |
-| [Select2](https://select2.github.io/) | Features which select API missing | - |
-| [Chosen](http://harvesthq.github.com/chosen/) | Modern, Customizable, More user-friendly | - |
-| [Editable Select list](http://coffeescripter.com/code/editable-select/) | Autosuggest, Custom input, Select | - |
-| [ddSlick](http://designwithpc.com/Plugins/ddSlick) | Allows you to create a custom drop down with images and description. | - |
-| [Selectize](http://brianreavis.github.io/selectize.js/) | hybrid of a textbox and `<select>` box. | - |
+| [Selectivity](https://arendjr.github.io/selectivity/) | Modular and light-weight selection library for jQuery and Zepto.js | <iframe src="https://ghbtns.com/github-btn.html?user=arendjr&repo=selectivity&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>  |
+| [Select2](https://select2.github.io/) | Features which select API missing | <iframe src="https://ghbtns.com/github-btn.html?user=select2&repo=select2&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>  |
+| [Chosen](http://harvesthq.github.com/chosen/) | Modern, Customizable, More user-friendly | <iframe src="https://ghbtns.com/github-btn.html?user=harvesthq&repo=chosen&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>  |
+| [ddSlick](http://designwithpc.com/Plugins/ddSlick) | Allows you to create a custom drop down with images and description. | <iframe src="https://ghbtns.com/github-btn.html?user=prashantchaudhary&repo=ddslick&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>  |
+| [Selectize](http://brianreavis.github.io/selectize.js/) | hybrid of a textbox and `<select>` box. | <iframe src="https://ghbtns.com/github-btn.html?user=brianreavis&repo=selectize.js&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>  |
 
 *[⬆ back to top](#components)*
 
@@ -126,11 +125,11 @@ Raise an issue to add your component to this repo.
 
 | Title  | Description | Popularity |
 | ------ | ----------- | -----------|
-| [Tooltipster](http://calebjacob.com/tooltipster/) | enables you to easily create clean, HTML5 validated tooltips. | - |
-| [tipsy](http://onehackoranother.com/projects/jquery/tipsy/) | Black Bg tooltips effect based on an anchor tag's title attribute. | - |
-| [Hovercard](http://designwithpc.com/Plugins/Hovercard) | display related information with the hovered label, link, or any html element of your choice. | - |
+| [Tooltipster](http://calebjacob.com/tooltipster/) | enables you to easily create clean, HTML5 validated tooltips. | <iframe src="https://ghbtns.com/github-btn.html?user=iamceege&repo=tooltipster&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
+| [tipsy](http://onehackoranother.com/projects/jquery/tipsy/) | Facebook style - Black Bg tooltips effect based on an anchor tag's title attribute. | <iframe src="https://ghbtns.com/github-btn.html?user=jaz303&repo=tipsy&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
+| [Hovercard](http://designwithpc.com/Plugins/Hovercard) | display related information with the hovered label, link, or any html element of your choice. | <iframe src="https://ghbtns.com/github-btn.html?user=prashantchaudhary&repo=hovercard&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
+| [Toolbar.Js](http://paulkinzett.github.com/toolbar/) | A jQuery plugin that creates tooltip style toolbars | <iframe src="https://ghbtns.com/github-btn.html?user=paulkinzett&repo=toolbar&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
 | [Tipped](http://projects.nickstakenburg.com/tipped) | Tipped takes tooltips to the next level by using HTML5 to give you full control over the look and feel of your tooltips. | - |
-| [Toolbar.Js](http://paulkinzett.github.com/toolbar/) | A jQuery plugin that creates tooltip style toolbars | - |
 
 *[⬆ back to top](#components)*
 
@@ -138,9 +137,9 @@ Raise an issue to add your component to this repo.
 
 | Title  | Description | Popularity |
 | ------ | ----------- | -----------|
-| [Videojs](http://www.videojs.com/) | Open source HTML5 video player | - |
-| [MediaElement.js](http://mediaelementjs.com/) | HTML5 Video & Audio player for all browsers with the same UI. Includes the Flash fallback for IE7+ | - |
-| [Plyr](http://plyr.io/) | A simple HTML5 media player with custom controls and WebVTT captions | - |
+| [Videojs](http://www.videojs.com/) | Open source HTML5 video player | <iframe src="https://ghbtns.com/github-btn.html?user=videojs&repo=video.js&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
+| [MediaElement.js](http://mediaelementjs.com/) | HTML5 Video & Audio player for all browsers with the same UI. Includes the Flash fallback for IE7+ | <iframe src="https://ghbtns.com/github-btn.html?user=johndyer&repo=mediaelement&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
+| [Plyr](http://plyr.io/) | A simple HTML5 media player with custom controls and WebVTT captions | <iframe src="https://ghbtns.com/github-btn.html?user=selz&repo=plyr&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
 | [Fitvid](http://fitvidsjs.com/) | Responsive videos | <iframe src="https://ghbtns.com/github-btn.html?user=davatron5000&repo=FitVids.js&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> |
 
 *[⬆ back to top](#components)*
@@ -260,6 +259,8 @@ Contribution would be of great help to create a nice list of UI Components
 * Fork the project
 * Make your feature addition or bug fix
 * Send pull request
+
+Want to add your component to this page? Raise an issue in this repo, we will review and add it to the specific category.
 
 **Active Contributors**
 
