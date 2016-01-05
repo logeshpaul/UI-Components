@@ -45,7 +45,7 @@ Raise an issue to add your component to this repo.
 | [Bootstrap Accordion](http://getbootstrap.com/javascript/#collapse-example-accordion) | Twitter Bootstrap |
 | [jQuery UI Accordion](https://jqueryui.com/accordion/) | jQuery UI |
 
- *[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Audio
 
@@ -56,7 +56,7 @@ Raise an issue to add your component to this repo.
 | [Blip.](http://jshanley.github.io/blip/) | Web Audio API wrapper |
 | [SoundCite](http://soundcite.knightlab.com/) | Inline audio player |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Checkboxes / Radio Buttons
 
@@ -66,7 +66,7 @@ Raise an issue to add your component to this repo.
 | [Screw Default Buttons](http://www.screwdefaultbuttons.com/) | Replace default button with custom images. |
 | [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) | Pretty smooth iPhone like switch |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  File Upload
 
@@ -76,7 +76,7 @@ Raise an issue to add your component to this repo.
 | [Uploadify](http://www.uploadify.com/) | HTML5 or Flash multiple file upload jQuery plugin script. |
 | [Dropzone](http://www.dropzonejs.com/) | DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews. |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Images
 
@@ -86,7 +86,7 @@ Raise an issue to add your component to this repo.
 | [ImageLoader.js](http://nick-jonas.github.com/imageloader/) | Preload Images |
 | [imagesloaded](https://github.com/desandro/imagesloaded) | ImagesLoaded |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Maps
 
@@ -98,7 +98,7 @@ Raise an issue to add your component to this repo.
 | [planetaryjs](http://planetaryjs.com/) | Awesome interactive globes for the web |
 | [openlayers3](http://openlayers.org/) | Mapping library that supports different projections |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Navigation
 
@@ -107,7 +107,7 @@ Raise an issue to add your component to this repo.
 | [Slideout.js](https://mango.github.io/slideout/) | A touch slideout navigation menu for your mobile web apps. |
 | [Navigation Sidebar with Toggle](http://bootsnipp.com/snippets/featured/navigation-sidebar-with-toggle) | Sidebar with toggle for bootstrap |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Select Box
 
@@ -119,7 +119,7 @@ Raise an issue to add your component to this repo.
 | [ddSlick](http://designwithpc.com/Plugins/ddSlick) | Allows you to create a custom drop down with images and description. |
 | [Selectize](http://brianreavis.github.io/selectize.js/) | hybrid of a textbox and `<select>` box. |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Tool Tip
 
@@ -131,7 +131,7 @@ Raise an issue to add your component to this repo.
 | [Toolbar.Js](http://paulkinzett.github.com/toolbar/) | A jQuery plugin that creates tooltip style toolbars |
 | [Tipped](http://projects.nickstakenburg.com/tipped) | Tipped takes tooltips to the next level by using HTML5 to give you full control over the look and feel of your tooltips. |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Video
 
@@ -142,7 +142,7 @@ Raise an issue to add your component to this repo.
 | [Plyr](http://plyr.io/) | A simple HTML5 media player with custom controls and WebVTT captions |
 | [Fitvid](http://fitvidsjs.com/) | Responsive videos |
 
-*[⬆ back to top](#components)*
+<sup>[(back to components)](components)</sup>
 
 ####  Web Editor (WYSIWYG)
 
@@ -151,10 +151,7 @@ Raise an issue to add your component to this repo.
 | [CKEditor](http://ckeditor.com/) | Simple to use and can be modified in any way you want. |
 | [Redactor](http://imperavi.com/redactor/) | Limitless flexibility and extensibility, simple and super-efficient API and amazing user experience. |
 
-*[⬆ back to top](#components)*
-
-
-
+<sup>[(back to components)](components)</sup>
 
 
 ## Component Helpers
@@ -169,6 +166,10 @@ Raise an issue to add your component to this repo.
 - [Time](#time)
 - [Validation](#validation)
 
+
+
+
+
 #### Data Manipulation
 
 - [String.js](http://stringjs.com/) - JavaScript library for the browser or for Node.js that provides extra String methods
@@ -177,7 +178,7 @@ Raise an issue to add your component to this repo.
 - [Accounting.js](http://josscrowcroft.github.com/accounting.js/) - JavaScript library for number, money and currency formatting, with optional excel-style column rendering (to line up symbols and decimals). It's lightweight, fully localisable and has zero dependencies.
 - [Formula.js](http://stoic.com/formula/) - JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### Data Visualization
 
@@ -185,14 +186,14 @@ Raise an issue to add your component to this repo.
 - [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 - [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - Create a drawing board on the web using this library
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### Events
 
 - [jQuery Outside Events](http://benalman.com/projects/jquery-outside-events-plugin/) - clickoutside, dbclickoutside, etc.,
 - [KeyPress](http://dmauro.github.io/Keypress/) - A robust Javascript library for capturing keyboard input
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### HTML5 Placeholder:
 
@@ -200,7 +201,7 @@ Raise an issue to add your component to this repo.
 - [Simple Placeholder](https://github.com/marcgg/Simple-Placeholder) - Lightweight. Required - jQuery.
 - [Cross Browser Placeholder](http://webdesignerwall.com/tutorials/cross-browser-html5-placeholder-text) - Requires jQuery & Modernizer.
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### Loaders
 
@@ -208,7 +209,7 @@ Raise an issue to add your component to this repo.
 - [Hook.js](http://usehook.com/) - Pull to refresh. For the web.
 - [Pace](http://github.hubspot.com/pace/docs/welcome/) - Automatic page loading progress bar (Youtube loading bar clone)
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### Notifications
 
@@ -216,7 +217,7 @@ Raise an issue to add your component to this repo.
 - [Notificon](https://github.com/makeable/Notificon) - Favicon Notifications / Alerts
 - [Piecon](http://lipka.github.com/piecon/) - Pie charts in your favicon!
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### Presentation
 
@@ -225,7 +226,7 @@ Raise an issue to add your component to this repo.
 - [Intro.js](http://usablica.github.io/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects.
 - [Website Tour](http://tympanus.net/codrops/2010/12/21/website-tour/) - Explain to your users the functioning of your web application in an interactive way
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### Time
 
@@ -234,7 +235,7 @@ Raise an issue to add your component to this repo.
 - [Smart Time Ago](http://pragmaticly.github.com/smart-time-ago/) - jQuery library to update the relative timestamps in your document intelligently.
 - [timeago](http://timeago.yarp.com/) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
 
-*[⬆ back to top](#components)*
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 #### Validation
 
@@ -246,10 +247,7 @@ Raise an issue to add your component to this repo.
 - [Mail Check](https://github.com/Kicksend/mailcheck) - Email domain spelling suggester
 - [mailcheck.js](https://github.com/mailcheck/mailcheck) - Reduce user-misspelled email addresses in your forms.
 
-*[⬆ back to top](#components)*
-
-
-
+<sup>[(back to component helpers)](component-helpers)</sup>
 
 
 ## Contributions
