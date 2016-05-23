@@ -25,6 +25,7 @@ Raise an issue to add your component to this repo.
 - [Accordion](#accordion)
 - [Audio](#audio)
 - [Checkboxes / Radio Buttons](#checkboxes--radio-buttons)
+- [Date Picker](#date-picker)
 - [File Upload](#file-upload)
 - [Images](#images)
 - [Maps](#maps)
@@ -53,7 +54,7 @@ Raise an issue to add your component to this repo.
 | ------ | ----------- |
 | [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) | Modern Web Audio Javascript Library |
 | [SoundJS](http://createjs.com/SoundJS) | Audio library + simple interface |
-| [Blip.](http://jshanley.github.io/blip/) | Web Audio API wrapper |
+| [Blip](http://jshanley.github.io/blip/) | Web Audio API wrapper |
 | [SoundCite](http://soundcite.knightlab.com/) | Inline audio player |
 
 <sup>[(back to components)](components)</sup>
@@ -65,6 +66,16 @@ Raise an issue to add your component to this repo.
 | [iCheck](http://damirfoy.com/iCheck/) | Super customized & Flat radio and checkboxes|
 | [Screw Default Buttons](http://www.screwdefaultbuttons.com/) | Replace default button with custom images. |
 | [iPhone Switch Style](http://awardwinningfjords.com/2009/06/16/iphone-style-checkboxes.html) | Pretty smooth iPhone like switch |
+
+<sup>[(back to components)](components)</sup>
+
+####  Date Picker
+
+| Title  | Description |
+| ------ | ----------- |
+| [date for humans](http://date.js.org/) | Date for Humans |
+| [Timepicker](http://trentrichardson.com/examples/timepicker/) | Adding a Timepicker to jQuery UI Datepicker |
+| [Zebra_Datepicker](http://stefangabos.ro/jquery/zebra-datepicker/) | A lightweight datepicker jQuery plugin |
 
 <sup>[(back to components)](components)</sup>
 
