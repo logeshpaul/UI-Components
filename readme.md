@@ -45,7 +45,7 @@ Raise an issue to add your component to this repo.
 | [CSS Responsive Animated Accordion](http://codepen.io/chriswrightdesign/pen/cmanI) | Codepen by Chris Wright |
 | [Bootstrap Accordion](http://getbootstrap.com/javascript/#collapse-example-accordion) | Twitter Bootstrap |
 | [jQuery UI Accordion](https://jqueryui.com/accordion/) | jQuery UI |
-| [Multiple Nesting](https://jqueryui.com/accordion/) | A simple jQuery Accordion with unlimited nesting |
+| [Multiple Nesting](https://codepen.io/brenden/pen/Kwbpyj) | A simple jQuery Accordion with unlimited nesting |
 
 
 <sup>[(back to components)](components)</sup>
