@@ -45,6 +45,8 @@ Raise an issue to add your component to this repo.
 | [CSS Responsive Animated Accordion](http://codepen.io/chriswrightdesign/pen/cmanI) | Codepen by Chris Wright |
 | [Bootstrap Accordion](http://getbootstrap.com/javascript/#collapse-example-accordion) | Twitter Bootstrap |
 | [jQuery UI Accordion](https://jqueryui.com/accordion/) | jQuery UI |
+| [Multiple Nesting](https://jqueryui.com/accordion/) | A simple jQuery Accordion with unlimited nesting |
+
 
 <sup>[(back to components)](components)</sup>
 
@@ -152,6 +154,9 @@ Raise an issue to add your component to this repo.
 | [MediaElement.js](http://mediaelementjs.com/) | HTML5 Video & Audio player for all browsers with the same UI. Includes the Flash fallback for IE7+ |
 | [Plyr](http://plyr.io/) | A simple HTML5 media player with custom controls and WebVTT captions |
 | [Fitvid](http://fitvidsjs.com/) | Responsive videos |
+| [BIDEO.JS](https://rishabhp.github.io/bideo.js/) | Fullscreen background videos |
+| [Covervid](http://stefanerickson.github.io/covervid/) | HTML5 video behave like a background cover image |
+| [Coverr](http://www.coverr.co/) | Beautiful, free videos for your homepage |
 
 <sup>[(back to components)](components)</sup>
 
